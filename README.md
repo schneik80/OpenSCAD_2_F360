@@ -9,11 +9,8 @@ TODO:
 * How are people using openscad
 * Project ideas, phases
 * What each person can contribute
-
 * Includes language choice
-
 * Get OpenSCAD samples translated to python or JS
-
 * Create modules for basic standard operations in OpenSCAD (list here)
  
 Reference:
