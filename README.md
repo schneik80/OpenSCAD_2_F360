@@ -2,16 +2,15 @@ OpenSCAD_2_F360
 ===============
 Working on a OpenSCAD translator for Autodesk Fusion 360
 
-TODO
-Define approach
+TODO:
 
-Includes language choice
+* Define approach
 
-Get OpenSCAD samples translated to python or JS
+* Includes language choice
 
-Create modules for basic standard operations in OpenSCAD
+* Get OpenSCAD samples translated to python or JS
 
-list here
+* Create modules for basic standard operations in OpenSCAD (list here)
  
- Reference:
+Reference:
  Fusion 360 PDF of object model http://help.autodesk.com/cloudhelp/ENU/Fusion-360-API/images/Fusion.pdf
