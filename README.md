@@ -5,6 +5,10 @@ Working on a OpenSCAD translator for Autodesk Fusion 360
 TODO:
 
 * Define approach
+* Fusion api overview
+* How are people using openscad
+* Project ideas, phases
+* What each person can contribute
 
 * Includes language choice
 
