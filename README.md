@@ -1,6 +1,6 @@
 OpenSCAD_2_F360
 ===============
-Working on a OpenSCAD translator for Autodesk Fusion 360
+Working on a OpenSCAD translator for Autodesk Fusion 360 (in and out)
 
 TODO:
 * Port a hand to Fusion
